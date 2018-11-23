@@ -9,7 +9,7 @@ This project requires Python 3 and the requests package.
 
 '''
 pipenv install
-pipenv run "python meteor.py"
+pipenv run "python my_meteor/meteor.py"
 '''
 
 
