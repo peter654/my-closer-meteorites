@@ -5,7 +5,12 @@ A training demo project that uses python and NASA data to find my closer meteori
 
 This project requires Python 3 and the requests package.
 
-`python3 meteor.py`
+`python3 meteor.py` then:
+
+'''
+pipenv install
+pipenv run "python meteor.py"
+'''
 
 
 
